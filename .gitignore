@@ -1,0 +1,19 @@
+# Power BI temporary & backup files
+*.tmp
+*.pbix.bak
+
+# Data files (opsional: hilangkan tanda # di bawah jika tidak ingin upload data CSV ke GitHub)
+# *.csv
+
+# Python / Environment (jika ada skrip python ke depannya)
+__pycache__/
+*.py[cod]
+.venv/
+env/
+venv/
+
+# System & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
